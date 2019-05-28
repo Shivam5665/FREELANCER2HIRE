@@ -1,7 +1,7 @@
 # FREELANCER2HIRE
-Finding the best Freelancers And Hiring them!
-	FREELANCER2HIRE makes it easy for quality employees and freelancers to connect, collaborate, and get work done flexibly and securely
-	To create a Metasearch platform that’ll facilitate various organisations to get best freelancers at cheapest price using web scrapping.
+#Finding the best Freelancers And Hiring them!
+FREELANCER2HIRE makes it easy for quality employees and freelancers to connect, collaborate, and get work done flexibly and securely
+To create a Metasearch platform that’ll facilitate various organisations to get best freelancers at cheapest price using web scrapping.
 The purpose of this website is to reduce the growth of direct traffic on some of the most famous websites.
 We have created a website where we are going to collect data from various freelancing websites and display it on a single interface to gain easy access to the data.
 To create a user friendly interface for the users so it will be easy for them to find project according to their requirements.This will help clients as well as for contractors to search for the project and to upload the project.
